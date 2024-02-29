@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@emp.com",
+      "password": "Admin123",
+      "profile": ""
+    },
+    {
+      "id": "EMP001",
+      "name": "jishajayadevan",
+      "email": "jishajayadevan101@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP002",
+      "name": "sajinps",
+      "email": "sajinps@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP003",
+      "name": "avnikaps",
+      "email": "avnika123@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP008",
+      "name": "sanjeevps",
+      "email": "sanjeevpkt@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP006",
+      "name": "jeshmajayadevan",
+      "email": "jeshma123@gmail.com",
+      "status": "1"
+    }
+  ]
+}
